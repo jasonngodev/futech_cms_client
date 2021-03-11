@@ -337,5 +337,11 @@
   "Report standard compared": "Mẫu gắn quy chuẩn",
   "Report standard attached": "Mẫu gắn hình",
   "Return lab": "Trả về lab",
-  "Attachment": "Tập tin đính kèm"
+  "Attachment": "Tập tin đính kèm",
+  "Edit Profile":"Cập nhật hồ sơ",
+  "My Profile":"Hồ sơ của tôi",
+  "Change password":"Thay đổi mật khẩu",
+  "Old Password":"Mật khẩu cũ",
+  "New Password":"Mật khẩu mới",
+  "Confirm New Password":"Nhập lại mật khẩu mới"
 }

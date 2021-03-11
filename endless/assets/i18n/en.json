@@ -332,10 +332,16 @@
   "Official": "Official",
   "Evicted": "Evicted",
   "Printed": "Printed",
-  "Report code":"Report code",
-  "Report standard":"Report standard",
-  "Report standard compared":"Report standard compared",
-  "Report standard attached":"Report standard attached",
-  "Return lab":"Return lab",
-  "Attachment":"Attachment"
+  "Report code": "Report code",
+  "Report standard": "Report standard",
+  "Report standard compared": "Report standard compared",
+  "Report standard attached": "Report standard attached",
+  "Return lab": "Return lab",
+  "Attachment": "Attachment",
+  "Edit Profile": "Edit Profile",
+  "My Profile": "My Profile",
+  "Change password": "Change password",
+  "Old Password": "Old Password",
+  "New Password": "New Password",
+  "Confirm New Password": "Confirm New Password"
 }
