@@ -403,6 +403,12 @@
   "October": "October",
   "November": "November",
   "December": "December",
-  "Revenue":"Revenue",
-  "Total of revenue":"Total of revenue"
+  "Revenue": "Revenue",
+  "Total of revenue": "Total of revenue",
+  "Staff name": "Staff name",
+  "Position": "Position",
+  "Start date": "Start date",
+  "End date": "End date",
+  "Login History":"Login History",
+  "IP White List":"IP White List"
 }

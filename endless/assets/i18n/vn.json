@@ -403,6 +403,12 @@
   "October": "Tháng 10",
   "November": "Tháng 11",
   "December": "Tháng 12",
-  "Revenue":"Doanh thu",
-  "Total of revenue":"Tổng doanh thu"
+  "Revenue": "Doanh thu",
+  "Total of revenue": "Tổng doanh thu",
+  "Staff name": "Tên nhân viên",
+  "Position": "Vị trí công việc",
+  "Start date": "Ngày bắt đầu",
+  "End date": "Ngày kết thúc",
+  "Login History": "Nhật ký đăng nhập",
+  "IP White List": "Danh sách IP trắng"
 }
