@@ -525,6 +525,20 @@
   "Discount payment directly": "Discount payment directly",
   "Discount": "Discount",
   "Discount price": "Discount price",
-  "Applied":"Applied",
-  "Name of payment method":"Name of payment method"
+  "Applied": "Applied",
+  "Name of payment method": "Name of payment method",
+  "Times of payment": "Times of payment",
+  "Value": "Value",
+  "Reminder": "Reminder",
+  "Time for payment": "Time for payment",
+  "Type of time": "Type of time",
+  "The list of paid times": "The list of paid times",
+  "Add more": "Add more",
+  "Exchange": "Exchange",
+  "Stages":"Stages",
+  "Pay within":"Pay within",
+  "First time":"First time",
+  "Last time" :"Last time",
+  "Available project":"Available project",
+  "Accumulate of VAT with non-tax periods":"Accumulate of VAT with non-tax periods"
 }

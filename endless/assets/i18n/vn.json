@@ -525,6 +525,20 @@
   "Discount payment directly": "Chiết khấu thanh toánh nhanh",
   "Discount": "Chiết khấu",
   "Discount price": "Giá tính chiết khấu",
-  "Applied":"Áp dụng theo",
-  "Name of payment method":"Tên phương thức thanh toán"
+  "Applied": "Áp dụng theo",
+  "Name of payment method": "Tên phương thức thanh toán",
+  "Times of payment": "Đợt thanh toán",
+  "Value": "Giá trị",
+  "Reminder": "Nhắc nhở",
+  "Time for payment": "Hạn thanh toán",
+  "Type of time": "Loại thời gian",
+  "The list of paid times": "Danh sách các đợt thanh toán",
+  "Add more": "Thêm nhiều",
+  "Exchange": "Sàn",
+  "Stages":"Số đợt",
+  "Pay within":"Trả trong",
+  "First time":"Đợt đầu",
+  "Last time" :"Đợt cuối",
+  "Available project":"Dự án áp dụng",
+  "Accumulate of VAT with non-tax periods":"Cộng dồn thuế VAT các đợt không thuế vào đợt"
 }
