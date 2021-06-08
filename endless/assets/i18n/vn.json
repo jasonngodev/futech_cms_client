@@ -1,5 +1,5 @@
 {
-  "Dashboard": "Dashboard",
+  "Dashboard": "Thống kê",
   "Default": "Mặc định",
   "E-Commerce": "E-Commerce",
   "University": "University",
@@ -651,5 +651,10 @@
   "Reply":"Phản hồi",
   "Comment":"Bình luận",
   "Complete":"Hoàn thành",
-  "Completed":"Đã hoàn thành"
+  "Completed":"Đã hoàn thành",
+  "Activities":"Các hoạt động",
+  "Yearly":"Hàng năm",
+  "Monthly":"Hàng tháng",
+  "Weekly":"Hàng tuần",
+  "Daily":"Hàng ngày"
 }

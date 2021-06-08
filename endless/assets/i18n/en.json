@@ -651,5 +651,10 @@
   "Reply":"Reply",
   "Comment":"Comment",
   "Complete":"Complete",
-  "Completed":"Completed"
+  "Completed":"Completed",
+  "Activities":"Activities",
+  "Yearly":"Yearly",
+  "Monthly":"Monthly",
+  "Weekly":"Weekly",
+  "Daily":"Daily"
 }
